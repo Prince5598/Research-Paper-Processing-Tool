@@ -29,13 +29,13 @@ os.makedirs(OUTPUT_FOLDER, exist_ok=True)
 model = genai.GenerativeModel("gemini-1.5-flash-latest")
 
 api_keys = [
-    "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",
-    "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",
-    "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",
-    "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",
-    "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"
+    "Groq_API_KEY1",
+    "Groq_API_KEY2",
+    "Groq_API_KEY3",
+    "Groq_API_KEY4",
+    "Groq_API_KEY5"
 ]
-client = groq.Client(api_key="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")
+client = groq.Client(api_key="Groq_API_KEY5")
 
 llms = [Groq(model="llama-3.3-70b-versatile", api_key=key) for key in api_keys]
 
