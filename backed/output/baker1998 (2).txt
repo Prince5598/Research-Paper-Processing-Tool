@@ -1,0 +1,378 @@
+**Molecular Diagnosis Vol. 3 No. 3 1998**
+
+## An Unexpected Product From Polymerase Chain Reaction-Mediated Site-Directed Mutagenesis Due to
+ Misalignment of the Mismatched Primer
+
+DARREN W. BAKER, PAUL G. ROTHBERG
+
+_Kansas City, Missouri_
+
+**Background:** The I1307K (T3920~A) variant of the _APC_ gene has been identi-
+fied as a potential risk factor for colorectal cancer and is present in 6% of Ash-
+kenazi Jews. Screening for this mutation may allow identification of people at
+elevated risk who would benefit from increased surveillance.
+**Methods and Results:** We designed an assay to detect the T3920~A allele using a
+primer mismatched at the 3' terminal nucleotide in the polymerase chain reaction
+(PCR) to generate a recognition site for the restriction enzyme _Mse_ I. After opti-
+mization of the PCR for magnesium ion concentration and annealing tempera-
+ture, the amplicon did not cut completely with the restriction enzyme in each of
+four tested DNAs. Sequence analysis of the PCR product that was resistant to
+digestion revealed that the T3920 ~A variant was not present. The artifact was
+caused by a single nuclcotide loop-out in the genomic DNA template under the 3'
+region of the primer, which allowed the 3' terminal base of the primer to hybridize
+properly. As a result, the mismatched primer created a modified product different
+from that originally planned. At a magnesium ion concentration below the opti-
+mum for product yield, most of the product was digested by Mse I. Scquence anal-
+ysis showed that, under these conditions, the intended product was produced.
+**Conclusions:** Mismatched primers can produce unintended products in a PCR
+due to looping out of a nuclcotide in the template or the primer. The magnesium
+ion concentration can inlluence the sequence and amount of the product.
+Key words: APC, DNA diagnosis, artifacl, mismatched primer.
+
+One of the most useful methods for rapid detec- by PCR-mediated site-directed mutagencsis using
+tion of known mutations involves the digestion of a mismatched primer in the reaction [1 ]. For exam-
+
+DNA amplified using the polymerase chain reac- ple, a mutation in the prothrombin gene that causes
+tion (PCR) with a restriction enzyme that cuts dif- a predisposition for thrombophilia is commonly
+ferentially depending on which allele is present. detected using a mismatched primer to generate a
+When a useful restriction enzyme is not available, _tlind_ III recognition site in DNA with the muta-
+it is usually possible to generate a recognition site tion [2].
+
+We attempted to design such a system for detec-
+tion of the T3920~A mutation in the APC gene.
+
+_b)'otn the Molecular Genetics l.cIboratory, Children ~ Mercy_
+_llospital, Kansas City, Missouri._ This mutation was found in 6% of Ashkenazi Jews
+
+Reprint requests: Paul G. Rothberg, PhD, Molecular and was associated with an increased risk of col-
+Genetics Laboratory, Children's Mercy Hospital, 2401 Gill-
+
+orectal cancer due to creation of a hypermutable
+
+ham Rd, Kansas City, MO 64108.
+
+_Copyright © 1998 by Chttrchill Livittf4stone ''~_ region [3]. We designed a primer with an intentional
+
+1084-8592/98/0303-000658.00/0 mismatch to create a recognition site for the re-
+
+157
+
+
+-----
+
+158 Molecular Diagnosis Vol. 3 No. 3 September 1998
+
+striction enzyme Mse I in the normal sequence. In 25 mM solution. The reaction was cycled 35 times
+the presence of the T3920~A mutation, the Mse I between 96°C for 30 seconds, 55°C for 1 minute
+recognition site would not be created. This assay and 72°C for 30 seconds, preceded by 2 minutes at
+failed because of an interesting artifact involving 95°C and followed by 5 minutes at 72°C, in an MJ
+misalignment of the mismatched primer during the Research thermal cycler (Watertown, MA). Oli-
+early cycles of the PCR. godeoxyribonucleotides were obtained from
+
+Oligos Etc. (Wilsonville, OR).
+
+**Materials and Methods**
+
+##### Restriction Enzyme Digestion
+
+**Sequences**
+
+The PCR product was digested with 4 units of
+
+We used the _APC_ nucleotide sequence from _Mse_ I (New England Biolabs, Beverly, MA) by
+the Entrez nucleotide sequence database (www. mixing 8 ~L of the PCR product with 1 t~L of the
+ncbi.nlm.nih.gov/Entrez/nucleotide.html) acces- restriction enzyme and incubating at 37°C for 2 or
+sion M74088 [4] for design of primers and descrip- more hours.
+tion of the position of the mutations. The sequences
+used to design primers were checked against acces-
+
+##### Gel Electrophoresis
+
+sion M73548 [5].
+
+PCR products were analyzed by electrophore-
+sis on 8 × 10 cm TBE 10% polyacrylamide mini-
+
+**PCR**
+
+gels, obtained from Novex (San Diego, CA). Gels
+
+A 267-bp fragment from exon 15 of the APC gene were stained with ethidium bromide and photo-
+was generated using the PCR. The reaction was graphed using ultraviolet transillumination. Aga-
+done in a volume of 25 ~xL using 25 pmol of each rose gel electrophoresis was used to purify DNA
+primer (upstream primer APC18: TTCTGCTAA fragments for further analysis. After electro-
+TACCCTGCAAATAGCAGAAT, and downstream phoresis, the gels were stained with minimal
+primer APC19: CTAAACATGAGTGGGGT amounts of ethidium bromide and illuminated
+CTCCTGAA), 0.1 txg of genomic DNA, 250 IxM each with a long-wave ultraviolet hand lamp to excise
+dNTR 1.25 units of a mixture of Stratagene (La the desired fragments. The DNA was purified
+Jolla, CA) Taq2000 DNA Polymerase and Clontech from the gel by the GeneClean (Bio 101; La Jolla,
+
+(Palo Alto, CA) TaqStart antibody, and Perkin- CA) procedure, pGEM DNA markers from
+Elmer (Foster City, CA) Taq polymerase buffer II Promega (Madison, WI) were used to estimate
+(without Mg). MgC12 was added as indicated from a sizes of DNA fragments.
+
+**5"** **~,** **3"**
+
+**Wild-type:** **...C A G A A A T AA** **A A G A...**
+
+**3" end of primer:** **...C A G A A T**
+
+Fig. I. Strategy for detection of
+
+**PCR product:** **...C A G A A T T AA** **A A G A...**
+
+T3920-,A in the APC gene. The
+
+**I** **I**
+
+upper panel shows how a mis-
+
+**_Mse I_**
+
+match in the primer (arrow) pro-
+duces an _Mse_ I site (TTAA) in
+the PCR product. The lower
+panel shows that in the presence 1 **,J,** **3"**
+of T3920~A, the _Mse_ I site is
+not produced. The variant A in **Mutant:** **...C AG** **A A** **A A AA** **AA G A...**
+the lower panel is underlined. **3" end of primer:** **...CAG** **A A** T
+
+**PCR product:** **...CAG** **A A** **T A AA** **A A G A...**
+
+# ®
+
+
+-----
+
+PCR Loop-Out Artifact ° Baker and Rothberg 159
+
+enzyme Mse I (TTAA) in the normal sequence (Fig.
+
+## mM MgCI 2
+
+1, top panel). After digestion, the wild-type modi-
+
+**I** **I**
+
+fied product will be cut into fragments of 237 and
+
+**1.0 1,2 1.4 1,6 1.8**
+
+30 bp. In the presence of the T3920-+A mutation,
+the _Mse_ I site will not form (Fig. 1, bottom panel),
+and the modified product will remain uncut at 267
+bp. Although an abundant clean product of the ex-
+
+#### _/267 pected size of 267 bp was produced at the optimum
+
+MgC12 concentration of 1.6 to 2.0 mM, it would not
+
+#### - 237
+
+digest completely with _Mse_ I using four different
+genomic DNAs (data not shown). As shown in
+Figure 2, when lower levels of MgCle were used,
+
+Fig. 2. Incomplete digestion of PCR products with _Mse I. The_ the PCR product was much less abundant but was
+PCR was done with the indicated concentration of MgC12 and a better substrate for the restriction enzyme. Even
+a genomic DNA presumed to be wild-type. Next the products at the lowest MgC12 concentration that gave a
+were digested with _Mse_ I as described in Materials and Meth- product (1.0 mM), we still could not get consistent
+ods. The figure shows a gel stained with ethidium bromide and
+
+100% digestion with _Mse_ I. We were unable to
+
+transilluminated with ultraviolet light. The size of the DNA
+fragments in base pairs is indicated. The pattern expected produce an adequate quantity of a digestible
+from _Mse_ I digestion of an amplicon generated from wild-type product despite attempts to optimize the MgC12
+genomic DNA was only seen at a suboptimal MgC12 concen- concentration, annealing temperature, and buffer
+tration (1.0 raM). pH. At this point, our goal changed from produc-
+
+ing a useful assay to trying to understand a poten-
+tially interesting artifact.
+
+**DNA Sequencing** We considered it unlikely that all four genomic
+
+DNAs tested had a mutation that prevented _Mse I_
+
+DNA generated by the PCR was sequenced us-
+
+digestion. We also considered it unlikely that MgC12
+
+ing fluorescently labeled dye terminators, Ampli-
+
+was inhibiting the restriction enzyme because the
+
+Taq DNA polymerase and the ABI Prism 377 au-
+
+manufacturer (New England Biolabs) recom-
+
+tomated DNA sequencer (PE Applied Biosystems:
+
+mends an even higher concentration (10 raM) than
+
+San Jose, CA), by the University of Missouri Kan-
+
+the 1.0 to 2.0 mM that we used. Therefore, we hy-
+
+sas City School of Biological Sciences Sequencing
+
+pothesized that the mismatched primer may have
+
+Facility.
+
+generated an unintended mutation during the
+PCR because of a looping out (bulge loop) of a nu-
+
+#### Results cleotide in the genomic DNA template allowing
+
+the 3' terminalT in the primer to base pair with the
+
+Our strategy is described in Figure 1. We de- A (at position 3920) in the template (Fig. 3).To test
+signed the upstream PCR primer to have a mis- this hypothesis, we amplified the DNA using a
+matched T at its 3' terminus to create a modified MgCI2 concentration of 2.0 mM, digested the prod-
+product with a recognition site for the restriction uct with _Mse_ I, and gel purified the uncut 267 bp
+
+Fig. 3. Proposed mechanism for
+rcsistance of the high MgCI2
+product to digestion by _Mse I._
+The figure shows how a loop-out
+
+**3' end of primer:** **5"...C A GA AT**
+
+of a T in the template strand
+during the early cycles of the **Wild-type template:** 3"...G T C TTTA T T T T CT... 5"
+PCR will generate a product
+which lacks the recognition se- **PCR product:** **5"...C A GA AT AAAAGA...** **3"**
+quence for _Mse_ I. Both strands 3"...G T C T TA T T TT CT... 5"
+of the PCR product are shown
+for comparison with the sequence
+in Figure 4.
+
+
+-----
+
+160 Molecular Diagnosis Vol. 3 No. 3 September 1998
+
+### A B
+
+**T** **C** **T** **T** **T** **T A** **T** **T C** **T G** **T C** **T** **T** **T** **TA** **A** **T** **T** **C** **T G**
+
+Fig. 4. Sequence analysis of the PCR product produced in high MgC12 that was resistant to Mse I digestion (A), and the PCR prod-
+uct produced in low MgC12 (B). Electropherogram traces are shown. The downstream PCR primer was used for the sequencing
+primer, creating a sequence of the lower strand.
+
+product. This DNA was sequenced using fluores- out of a nucleotide in the template or the primer
+cently labeled dye terminators and the down- must be considered as a potential pitfall in the de-
+stream PCR primer, APC19. As shown in Figure sign of experiments based on mismatched primers
+4A, the sequence TCTTTTATTCTG is consistent for both site-directed mutagenesis and allele-
+with our hypothesis (lower strand of PCR product specific PCR.
+in Fig. 3). If the lack of cutting by Mse I were due to The most obvious cause of this artifact is the
+the T3920-*A mutation, the sequence of the uncut presence of an A residue at the next position of the
+product would have been TCTTTTTATTCTG, the template strand with which the 3'-terminal mis-
+reverse complement of the PCR product sequence matched T of the primer could base pair (Fig. 3).
+shown in the bottom panel of Figure 1. As a con- However, this arrangement does not necessarily
+trol, we made the 1.2 mM MgC12 product, using cause a misalignment artifact. A similar strategy to
+three PCRs to generate sufficient material, and se- detect the N1303K mutation in the cystic fibrosis
+quenced it without prior digestion with Mse I. The gene (CFTR) involved a 3' terminal mismatched
+sequence, as shown in Figure 4B, is as expected G to create a site for the restriction enzyme BstN I
+(Fig. 1, top panel). [6,7]. This assay was successful even though the
+
+next template base in the CFTR sequence is a C
+
+[81.
+
+###### Discussion The sequence context prior to the mismatched
+
+base might also have played a role in generating
+
+The original assay for the I1307K mutation in the undesired product. Figure 3 shows a loop-out
+the _APC_ gene involved PCR followed by allele- of the middle T of the three contiguous thymidy-
+specific hybridization [3]. We attempted to develop late nucleotides in the template. Actually, a single
+an alternate assay to detect this mutation using a base loop-out of any of these three nucleotides in
+mismatched primer to create a diagnostic restric- the template would produce the same product. The
+tion enzyme site. The assay failed because the PCR presence of three contiguous thymidylates at this
+did not generate a sufficient quantity of the desired position in the sequence probably facilitated the
+product. The most abundant product did not con- loop-out event.
+tain the expected _Mse_ I restriction enzyme site. We also found that the magnesium ion concen-
+Our data are consistent with this amplicon being tration during the PCR had a substantial influence
+due to misalignment of the primer, involving the on the sequence of the product. This phenomenon
+looping out of a single nucleotide in the genomic may cause errors in the interpretation of assays
+DNA template during the early cycles of the PCR that are susceptible to misalignment artifacts.
+(model in Fig. 3). The fact that this mismatched Because we do not know the mechanism of the
+product, rather than the simple mismatched T observed magnesium effect, it is not possible to
+without a loop-out, was the primary product under generalize about its significance. However, it might
+optimized conditions was unexpected. Looping be exploitable, in some situations, to improve the
+
+
+-----
+
+PCR Loop-Out Artifact                                       - Baker and Rothberg 161
+
+specificity of a reaction that fails because of a mis- Markowitz A, Klimstra D, Jhanwar S, Winawer S,
+alignment artifact. Offit K, Luce MC, Kinzler KW, Vogelstein B: Famil-
+
+ial colorectal cancer in Ashkenazim due to a hyper-
+mutable tract in APC. Nature Genet 1997;17:79-83
+
+##### Acknowledgment 4. Kinzler KW, Nilbert MC, Su L-K, Vogelstein B,
+
+Bryan TM, Levy DB, Smith K J, Preisinger AC,
+Hedge P, McKechnie D, Finniear R, Markham A,
+
+The authors thank Mary Ann Kuchta for prepa-
+
+Groffen J, Boguski MS, Altschul SE Horii A, Ando
+
+ration of the figures, the University of Missouri
+
+H, Miyoshi Y, Miki Y, Nishisho I, Nakamura Y: iden-
+
+Kansas City School of Biological Sciences DNA se-
+
+tification of FAP locus genes from chromosome
+
+quencing facility for assistance in their specialty, and
+
+5@1. Science 1991 ;253:661-664
+
+J. Steven Leeder and John E Bradley for helpful
+
+5. Joslyn G, Carlson M, Thliveris A, Albertsen H, Gel-
+
+comments on the manuscript.
+
+bert L, Samowitz W, Groden L Stevens J, Spirio L,
+Robertson M, Sargeant L, Krapcho K, Wolff E, Burr
+R, Hughes JP, Warrington L McPherson J, Wasmuth
+
+_Received May 1, 1998_ J, LePaslier D, Abderrahim H, Cohen D, Leppert M,
+_Received in revised form June 18, 1998_ White R: Identification of deletion mutations and
+
+_Accepted July 2, 1998_
+
+three new genes at the familial polyposis locus. Cell
+1991 ;66:601-613
+6. Ng ISL, Pace R, Richard MV, Kobayashi K, Kerem
+
+##### References B, Tsui L-C, Beaudet AL: Methods for analysis of
+
+multiple cystic fibrosis mutations. Human Genet
+
+1. Haliassos A, Chomel JC, Tesson L, Baudis M, Kruh 1991 ; 87:613-617
+
+J, Kaplan JC, Kitzis A: Modification of enzymatically 7. Friedman KJ, Highsmith WE Jr, Silverman LM:
+amplified DNA for the detection of point mutations. Detecting multiple cystic fibrosis mutations by poly-
+Nucleic Acid Rcs 1989;17:3606 merase chain reaction-mediated site-directed mutagen-
+2. Poort SR, Rosendaal FR, Reitsma PH, Bertina RM: esis. Clin Chem 1991;37:753-755
+
+A common genetic variation in the 3'-untranslated 8. Zielenski J, Rozmahel R, Bozon D, Kerem BS,
+region of the prothrombin gene is associated with Grzelczak Z, Riordan JR, Rommens J, Tsui L-C:
+elevated plasma prothrombin levels and an increase Genomic DNA sequence of the cystic fibrosis trans-
+in venous thrombosis. Blood 1996;88:3698-3703 membrane conductance regulator (CFTR) gene.
+3. Laken S J, Peterscn GM, Gruber SB, Oddoux C, Genomics 1991;10:214 228
+
+Ostrcr H, Giardiello FM, Hamilton SR, Hampel H,
+
+
+-----
+

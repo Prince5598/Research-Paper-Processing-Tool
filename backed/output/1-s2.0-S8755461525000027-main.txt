@@ -1,0 +1,814 @@
+Contents lists available at ScienceDirect
+
+# Computers and Composition
+
+[journal homepage: www.elsevier.com/locate/compcom](https://www.elsevier.com/locate/compcom)
+
+
+## Playing the digital dialectic game: Writing pedagogy with generative AI
+
+### Rebekah Shultz Colby
+
+_University of Denver, Writing Program, USA_
+
+
+A R T I C L E I N F O
+
+_Keywords:_
+Generative AI
+Critical play
+Ethics
+Emergence
+Aleatory
+Epiphany
+Transfer
+Critical incident
+
+
+A B S T R A C T
+
+This article explores teaching writing with generative AI as critical play where students and
+teachers engage in an ethically dialectical and aleatory game with generative AI. I qualitatively
+surveyed 24 writing teachers about how they teach writing with generative AI as well as its
+advantages and disadvantages. I discovered that teachers used generative AI to teach about the
+ethics of generative AI’s design and rhetorical use to avoid plagiarism. Teachers also critically
+played with generative AI to teach the writing process of invention, drafting, revision, and
+editing. Specifically, the critical, dialectical interplay of human and machine invents in aleatory
+and emergent ways, creating moments of epiphany for students and teachers within the writing
+process for invention, drafting, revision, and editing while the real time pace of generative AI
+democratizes education, making writing and teaching more accessible for them.
+
+
+**1. Introduction: Who’s afraid of generative AI?**
+
+Loudly touted as a disruptor, the public introduction of ChatGPT-3 on November 30, 2022 and ChatGPT-4 on March 14, 2023
+struck both fear and cautious optimism into the hearts of writing teachers and students alike as the chatbot was able to quickly generate
+cohesive thousand-word essays in almost any genre. While students and teachers are intrigued about the creative potential of
+generative AI, for the first time, professional knowledge-work and writing jobs are at risk of being replaced, or at least fundamentally
+transformed, by automation, leaving both students and teachers unsure about the future. Reflecting students’ fears, a 2023 Pew study
+found that 42% of 18–29-year-olds were concerned about AI’s impact on the future (Tyson & Kikuchi, 2023), which makes sense when
+the chief executive of IBM predicts that 30% of white-collar jobs will be automated in the future (Goldberg, 2023) and Forbes reports
+that ChatGPT is devastating the freelance writing job market (Shrivastava, 2023). For teachers, the outlook is not much better. A study
+by Ed Felten et al., 2023found that the teaching of postsecondary English language and literature are professions most highly impacted
+by generative AI, which CNBC interpreted to mean that these teachers should worry about losing their jobs to generative AI (Chun,
+2023). In these early days, such concern is warranted as Sal Khan gave a TED Talk about developing chatbots that can individualize
+tutoring for students (Singer, 2024) and at least one study has shown feedback on student writing is equivalent to human feedback
+(Ruwe & Mayweg-Paus, 2023). Meanwhile, Sam Altman, the chief executive of ChatGPT-4′s OpenAI, met with Congress to discuss how
+employers could retrain employees to work more effectively with generative AI instead of firing them, which Altman argued was a
+problem for the government and not for generative AI developers to solve (Goldberg, 2023).
+
+Of course, the other fear both writing teachers and students share about ChatGPT is academic integrity and plagiarism, even as
+some embrace generative AI’s potential as a learning tool (Lingard, 2023). For instance, the New York City school system banned the
+
+_[E-mail address: Rebekah.shultzcolby@du.edu.](mailto:Rebekah.shultzcolby@du.edu)_
+
+[https://doi.org/10.1016/j.compcom.2025.102915](https://doi.org/10.1016/j.compcom.2025.102915)
+
+Available online 24 January 2025
+8755-4615/© 2025 The Author(s). Published by Elsevier Inc. This is an open access article under the CC BY-NC-ND license
+[( http://creativecommons.org/licenses/by-nc-nd/4.0/ ).](http://creativecommons.org/licenses/by-nc-nd/4.0/)
+
+
+-----
+
+use of generative AI over fears of plagiarism (Barnett, 2023). A quarter of K-12 teachers and a third of high school teachers thought that
+generative AI was potentially more harmful than not (Lin, 2024). While university professor’s responses are more nuanced, in a recent
+_New York Times article, they still expressed concerns about plagiarism as well as concerns about students losing critical thinking skills_
+as they become over-reliant on ChatGPT (Singer, 2023a). However, teachers also emphasized teaching students how to critically use
+ChatGPT as a tool: teaching students how to critically think through ChatGPT’s output for research and using it to accessibly sum­
+marize difficult material. Fortunately, while plagiarism is still a student concern, in a 2023 Pew study, a majority (57%) of students
+understand that letting ChatGPT write an entire draft for them is plagiarism while 69% think it is acceptable to use ChatGPT as a
+research tool (Faverio & Tyson, 2023). While it is not clear in this Pew study how effectively students are using ChatGPT for research,
+many students want to learn. For instance, a group of high school students in New Jersey want teachers to teach them how to use
+ChatGPT productively instead of banning it (Singer, 2023b).
+
+Fortunately, the field of rhetoric and writing studies has rapidly risen to the challenge of learning how to effectively write and teach
+writing with generative AI. For instance, soon after the public release of ChatGPT, the Association for Writing across the Curriculum
+released their Statement on Artificial Intelligence Writing Tools in Writing Across the Curriculum Settings (Hesse et al., 2023,
+January), and a MLA-CCCC Joint Task Force on Writing and AI released a Working Paper (Byrd et al., 2023, July). These were followed
+by many more classroom perspectives such as the edited collection, TextGenEd: Teaching with Text Generation Technologies (Vee et al.,
+2023), one of the first compilations critiquing and exploring pedagogies with generative AI, and the MLA-CCCC Joint Task Force on
+Writing and AI’s own collection of assignments and teaching narratives (Adisa et al., 2023). In 2024, Ranade and Eyman (2024) edited
+a special issue in Computers and Composition on how to teach, write, and learn with generative AI. Most recently, Majdik and Graham
+(2024) edited a special issue exploring the rhetoric of generative AI in Rhetoric Society Quarterly.
+
+While together, these explorations give a field-wide view of rhetoric, writing, and teaching with generative AI, by themselves, they
+still give an atomistic portrayal of individual pedagogies, even if some are program-wide. Consequently, I qualitatively surveyed 24
+writing teachers within rhetoric and writing studies and technical communication to gain a field-wide portrait of teaching practices
+with generative AI.
+
+In this article, I use rhetorical code studies (Beck, 2016; Brock, 2019) to explore why, even though writing is machinic in its
+iterability and ability to cut the writer off from the audience, leading to generative AI’s machine writing, writing still needs the correct
+social context and audience for social action. Thus, using procedural rhetoric and aleatory emergence from game studies, I argue that
+teaching with generative AI is playing an ethical dialectic game, especially as teachers within my survey emphasized first ethically
+framing writing with generative AI. I then examine how teachers had students play with generative AI throughout the writing process.
+Thus, I show how this critical play with generative AI privileges human agency but is also as an emergent, aleatory creative act between
+human and machine that invents, drafts, and, using transfer theory, creates epiphanies that aid with revision and editing and that make
+learning and writing more accessible for students (Alexander, 2017; Yancey, Robertson, & Taczak, 2012).
+
+_1.1. Writing as and with machine_
+
+I use rhetorical code studies, game studies, and transfer lenses to examine how generative AI co-teaches writing with students and
+teachers within my survey data. Situated within the Computers and Composition and Computers and Writing communities, rhetorical
+code studies is a development of critical code studies within the digital humanities but instead of only examining code as an
+expressively artistic medium (Marino, 2014), rhetorical code studies also examines how code functions rhetorically, often drawing on
+Ian Bogost’s (2007) procedural rhetoric to examine how software procedures create embodied, ideological arguments for users. As a
+continuation of digital rhetoric (Eyman, 2015), rhetorical code studies brings together theories within rhetoric and writing studies,
+especially rhetorical theory and rhetorical genre studies, and game studies’ theories developed from studying videogames (Bogost,
+2007), to study code and its rhetorical functions (Beck, 2016; Brock, 2019).
+
+By using a rhetorical code studies lens, ancient rhetorical theory shows us how and why generative AI can write. Using Socrates as a
+mouthpiece in Phaedrus, Plato (1929) laments that writing divorces the writer from the audience’s presence and context. Jacques
+Derrida (1988) further argues that writing signals absence, creating a perpetually circulating trace of meaning (Hallsby, 2024). Cut off
+from a present audience, writing relies on genre conventions that perform social actions in their iterable citationality to be understood,
+becoming stabilized for now only through repeated social performance or sedimentation (Miller, 1984; Schryer, 1994).
+
+Nevertheless, the rhetorical code studies theorist, James Brown (2015), argues that this iterable, citational quality also transforms
+writing into a type of machine through rhetoric. As Derrida (1988) puts it, “To write is to produce a mark that will constitute a sort of
+machine” (p. 8). Rhetoric, then, is composed of procedural algorithmic codes, becoming a form of software that runs the writing
+machine (Brown, 2015). As a stochastic mimic, ChatGPT exploits the machinic and iterative citationality of rhetoric and writing
+(Bender et al., 2021) and could be viewed as a copia machine: a device for generating the same message in millions of different it­
+erations. However, the ancient rhetorical device of copia could also be viewed as a mental rhetorical machine for generating writing
+(Hallsby, 2024).
+
+However, the social context necessary for an audience to construct meaning from writing also creates a paradox for writing’s
+machinic citational iterability: even as writing signals an absence between writer and audience, writing is not rhetorically meaningful
+without an audience who needs a social context to make sense of writing. While Derrida (1988) points out that genres persist because
+of their citational iterability, genres only work because of the social, contextual actions they create for a specific audience (Miller,
+1984). Generative AI, however, only works through genre’s citational iterability: running mathematical predictions of the next most
+probable word in a genre. While neural networks do construct models to predict the next most probable word (Graham & Hopkins,
+2022) as Bender et al. (2021) argue, generative AI does not form a mental model of an audience historically situated within a particular
+
+
+-----
+
+social context as human writers do (McKee & Porter, 2022).
+
+Nevertheless, writers can never fully predict audiences and social contexts, especially online, where writing circulates among a
+multitude of diverse communities that change over time. In this way, rhetorical agency is distributed between writer, audience, a
+specific temporal social context, the algorithms that distribute writing, and the interfaces that display it. Carolyn Miller (2007) argues
+that rhetorical agency could be more accurately conceived as energy between audience and rhetor, existing as either potential or
+kinetic energy depending on the audience’s uptake. Furthermore, even as writers can never fully predict the rhetorical uptake of their
+writing, never possessing full rhetorical agency, writing sill creates potential for certain rhetorical possibilities while foreclosing
+others. As a result, Marilyn Cooper (2011) explains that writers are still responsible for the rhetorical effects they make with their
+writing, even as these rhetorical effects may be emergent or not originally intended by the writer.
+
+While generative AI is designed with programs that have their own agency as Miguel Sicart (2023) and John Gallagher (2020)
+remind us, this agency is still distributed, and game studies theories allow us to examine how teachers and students can partially
+reclaim some rhetorical agency from generative AI as writers. Specifically, through critical play with software, we come to understand
+how code functions rhetorically. While critical play does not allow us to fully view or understand code, it does allow us to more fully
+experience how code functions: the social actions code creates, which is well suited for rhetorical study. Furthermore, we come to
+understand the ideologies of our digital culture by playing with software as Sicart (2023) argues because, through play, we learn
+software’s algorithmic logics, or using Bogost (2007), software’s procedures and their ideologies. Most importantly, through play, we
+explore the ideological limits and boundaries of procedural software functions, learning software’s biases as we see what is proce­
+durally included or excluded. From a rhetorical code studies perspective, algorithms construct enthymemes that users must fill in when
+they interact with software interfaces (Bogost, 2007; Brock & Shepherd, 2016), so playing with software helps users understand the
+software’s enthymematic limits: what users can and cannot input for a response and what sorts of responses their queries will generate.
+Thus, critical play operates as a disruptively “creative act that shifts the way a particular logic or paradigm is operating” (Flanagan,
+2009, p. 12).
+
+For example, although ChatGPT-4 was trained on a vast data set, this data set was not that diverse (Graham & Hopkins, 2022)
+excluding many forms of Global Englishes such as Ghanian English as Alfred Owusu-Ansah (2023) was dismayed to discover.
+Furthermore, ChatGPT was designed to be biased as ChatGPT predicts the average response in any given sentence from its learning
+data. Thus, ChatGPT statistically predicts responses from the normative mean and generally excludes responses that are not norma­
+tively white, middle-class, Western, male, heterosexual, or able (Dolmage, 2014; Hallsby, 2024)—unless specifically queried to make
+an exception, and even then, ChatGPT may fail at an accurate representation (Lingard, 2023). Furthermore, to obtain a large enough
+training data set to create ChatGPT’s expansive responses, training data authors were most likely never notified or even aware that
+their posts online were scraped and used for training (Bender et al., 2021; Tham, Howard, & Verhulsdonck, 2022; Rajappa, 2024).
+Thus, through this play, users discern that ChatGPT has the ethical ideology of an aggressive colonizer: one that does not respect the
+rights of others and includes a Western, white, male, ableist, and heterosexual normative bias.
+
+_1.2. Playing the aleatory, dialectical game of generative AI_
+
+Because generative AI such as ChatGPT has an interface and algorithmic procedural rules for how to best query it, teachers and
+students can critically play generative AI as a query game creating a dialectic: questioning the algorithm to find its ethical limits and
+critiquing its writing but then querying it further until the writing improves. In this way, students can further understand the ethics of
+design while they learn what rhetorically effective writing looks like in particular genres for specific audiences as they critically
+compare generative AI’s writing to their own writing. While generative AI could be defined as Lysias in Phaedrus, relying on copious
+generic formulas to create arguments, teachers and students rhetorically playing with generative AI are much like Plato’s (1929)
+conception of Socrates, dialectically questioning and critically playing with the prose generative AI produces which Stacy Pigg (2024)
+refers to as requesting, refining, and evaluating. Finally, this dialectical game also privileges the rhetorical agency of students and
+teachers who should always rhetorically and critically question generative AI’s output. While students and teachers share what Alan
+Knowles (2024) terms the rhetorical load with generative AI, by conceptualizing generative AI use as a dialectical game, students and
+teachers still take rhetorical responsibility for their writing effects while generative AI does not, privileging human-in-the-loop instead
+of machine-in-the-loop writing and learning (Wu et al., 2022).
+
+Generative AI also acts as a critically dialectical game because it brings the emergent aleatory pleasure of the unexpected, acting as
+a game of chance or alea as no text generative AI produces is ever the same (Caillois, 2001; Jiang, 2020) and these texts can be
+generated quickly within the real time of class. For instance, teachers and students can query generative AI to brainstorm topic ideas
+for writing and be pleasantly surprised by novel responses. Similarly, teachers and students can query generative AI for revision by
+either asking for revision ideas after inputting their drafts to generative AI or, after asking generative AI to draft writing with the same
+prompt, critically comparing their draft with generative AI’s for further revision. In both cases of invention or revision, teachers and
+students should critically and dialectically reflect on generative AI’s responses, only accepting rhetorically effective responses to retain
+rhetorical agency over their writing.
+
+Finally, framing generative AI as dialectical, critical play is well suited for teaching because gameplay often presents crisis-inducing
+challenges that force players to learn (Koster, 2005). For instance, when we play a new game, we bring our previous knowledge of how
+to play similar games, any other previous knowledge we have learned relevant to the game, embodied kinesthetic knowledge of how to
+play, which Steve Holmes (2017) terms procedural habits, and the material knowledge embedded in the interface design or coded into
+the game’s algorithms. Once we learn how to play a game, we become so attuned to the game’s environment and the materially haptic
+movements of play that these habits become unconscious (Ash, 2013). If we play a similar game, we are similarly unconscious of how
+
+
+-----
+
+we play as we are transferring our knowledge of how to play from the previous game in the literal sense: just transferring knowledge
+from one context to another and using low-road or near transfer (Salomon & Perkins, 1989, 1992).
+
+However, games that are too easy often become boring, so many games are structured around challenges that create critical in­
+cidents: crises where previous learning is insufficient, so players must synthesize new knowledge to progress, creating high-road or far
+transfer (Salomon & Perkins, 1989, 1992). Phill Alexander (2017) terms this new knowledge elastic or kinetic knowledge because it
+stretches to bridge a knowledge gap, often creating the pleasure of epiphany (Aarseth, 1997). This synthesis of old knowledge needed
+to form new knowledge is also rooted in metis or the cunning that occurs in the embodied moment (Detienne & Vernant, 1978).
+
+However, while forming the elastic or kinetic knowledge of high-road transfer often brings the joy of epiphany, critical incidents
+can also cause frustration and even despair, especially when the context is writing and not games. However, teachers can lessen some
+of the negative emotional impact of the critical incident crisis by using generative AI and their own guidance to show students how to
+improve their writing, helping them form the epiphany of elastic learning, without leaving them frustrated.
+
+Furthermore, generative AI’s instant feedback means that generative AI offers just-in-time feedback like a videogame does (Gee,
+2007) which also potentially democratizes education for students and teachers in Ira Shor’s (1996) liberatory fashion. For instance,
+students can copy and paste an essay into generative AI and ask generative AI for writing advice. Similarly, in class, teachers can ask
+generative AI to draft a specific genre in class, but then can rhetorically critique the draft, showing students how they can rhetorically
+improve their own drafts too. Finally, teachers can ask generative AI to draft assignment prompts or discussion questions in class with
+student feedback so that students and teachers collaboratively co-teach the class with generative AI.
+
+To better understand how university teachers employed generative AI in their courses as sites of critical, aleatory play, I surveyed
+24 writing teachers in rhetoric and writing studies and technical communication to see how they taught with it. Specifically, I explore
+how teachers and students used the query function to create a critically rhetorical dialect with generative AI to explore the ethical
+affordances and constraints of generative AI’s design and to play with generative AI as a co-writer throughout the writing process that
+potentially offers help with invention, targeted drafting, revision, and editing. Specifically, the aleatory emergence of human and
+machine invents and creates moments of epiphany for students during revision and editing while the real time pace of generative AI
+democratizes education, making writing and teaching more accessible for them.
+
+**2. Methods**
+
+_2.1. Survey instrument_
+
+I designed an open-ended, qualitative survey to gather data about how writing teachers in rhetoric and writing studies and
+technical communication were using generative AI in their courses. In my survey invitation, I defined generative AI broadly to include
+any AI-based natural language processing system such as ChatGPT and Bard. I also defined writing broadly to include writing from
+first-year writing and technical communication but also multimodal design. Finally, I asked about the advantages and disadvantages of
+teaching with generative AI. (See Appendix A for the survey questions.) With these open-ended, qualitative questions, I invited
+practical teaching strategies for teaching writing with generative AI as well as any positive and negative attitudes surrounding teaching
+with generative AI.
+
+I did not ask questions about the type of institution participants taught in nor did I ask what types of classes they taught. However, I
+posted the survey on the Writing Studies Listserv and the Association of Teachers of Technical Writing Listserv to select participants
+who taught in both fields. Furthermore, my open-ended qualitative research invited participants to volunteer information relevant to
+their individual teaching contexts if necessary. Finally, the potential differences between programs and courses taught from my
+participants was less relevant because rhetoric and writing studies and technical communication pedagogies tend to draw from similar
+theories such as rhetorical decision making and the rhetorical situation, concepts also considered in Reeves et al.’s (2024) study of
+generative AI in technical communication.
+
+The open-ended qualitative survey served my primary research question best because I was focused on understanding how writing
+teachers were teaching with generative AI and not as a large, generalizable analysis of generative AI pedagogies because generative
+AI’s development cycle is too nascent for such a study. My study methods were reviewed by my institution’s IRB and deemed exempt
+(2092363–1).
+
+_2.2. Participants_
+
+As my design called for gathering practical teaching approaches and responses to teaching writing broadly defined, I posted an
+invitation to the qualitative survey, hosted by my university’s Qualtrics, on the Writing Studies Listserv and the Association of Teachers
+of Technical Writing Listserv. I also used a snowball technique asking survey participants for the email address of anyone they knew
+who used generative AI to teach writing.
+
+Twenty-four participants completed the survey by September 2023. For the survey responses, the shortest response was two words
+while the longest was 337 words, and the average length was 59.6 words.
+
+_2.3. Coding_
+
+I used an emergent coding scheme, developing my coding categories as they inductively emerged from the data (Saldana, 2013˜ ;
+Mayring, 2000; Patton, 2002; Thomas, 2006). Rather than being generalizable, my research captures a partial snapshot of teaching
+
+
+-----
+
+practice trends with generative AI at a specific moment in time in September 2023, over six months after ChatGPT-4 had been released,
+and teaching practices with generative AI will inevitably evolve along with the development of AI and language models.
+
+As Table 1 below demonstrates, my first coding cycle used a structural code from concepts around my research question asking how
+teachers taught with generative AI in the classroom (Saldana, 2013˜ ). For teaching, “ethics” was a large umbrella term that I cate­
+gorized. Within ethics, I included mentions of ethics in general and the ethics of generative AI’s design including bias, information
+accuracy such as hallucinations, transparency, privacy, and environmental impacts of generative AI. I also coded ethical use of
+generative AI for students, including mentions of rhetorical awareness, plagiarism, and how to compose critical generative AI queries,
+which also included teaching critical thinking. Within ethcs, I included teaching students about the affordances and constraints of
+generative AI design as well as its dangers and benefits.
+
+The rest of my first cycle coding fell under the “writing process” category. I coded any mentions of teaching the writing process in
+general. Then I coded the larger writing process subcategories of invention, drafting, revision, and editing and style. For invention, I
+included brainstorming and expanding topic ideas, outlining, and finding research, which also included critically triangulating
+research accuracy with other sources. For drafting, I included any mention of generative AI drafting or letting generative AI write or
+design a specific section without human rewriting, which also included teachers drafting teaching materials. I also included any
+teachers who did not allow generative AI drafting. For revision, I included any mention of rewriting what generative AI had drafted or
+using generative AI to pedagogically analyze what could be improved in a draft at the global level, including using generative AI to
+organize a text. Editing and style included any mention of sentence-level revision or style such as comparatively revising generative
+AI’s text at the sentence level and summarizing difficult texts for reading comprehension.
+
+I coded separately for advantages and disadvantages of teaching generative AI. However, most of my categories still fell under my
+general teaching categories of ethics and then the writing process, invention, drafting, revision, and editing, as teachers often further
+explained the upsides or downsides of their generative AI pedagogy. Although there were a few outliers, they often had only one
+mention. For advantages, the exception was that four teachers said using generative AI was fast and efficient. For disadvantages, the
+exception was four teachers that said generative AI produced poor quality text, which I put under the drafting category. Finally,
+because I used an inductive coding scheme, there is some overlap in my categories. For instance, critical thinking is so important to
+ethical and effective generative AI co-writing that it was part of the ethics category but also part of the invention and revision
+categories.
+
+Finally, I conducted a theoretical coding in my second cycle of coding, which Johnny Saldana (2013)˜ defines as umbrella coding
+where researchers conceptually put the previous coding together. Specifically, I examined how game and play elements influenced my
+structural codes of how teachers taught with generative AI. Within my data, generative AI creates an aleatory game of chance for users
+as the AI generates a unique text each time. However, users must ethically and critically think through what generative AI randomly
+generates, turning using generative AI into a dialectic of rejection, acceptance, or further refinement (Pigg, 2024), which was how the
+generative AI was used for invention, drafting, revision, and editing. Finally, teachers also used the emergent aleatory game element of
+generative AI to prompt students to ethically test out the AI as a form of play to see what it would emergently do.
+
+Finally, within my results, I engage in the qualitative research methods tradition of “thick interpretation,” a methodological
+development of Clifford Geertz’ (1973) “thick description,” which interprets qualitative data within its larger sociological context
+(Denzin, 2001; Patton, 2002; Ponterotto, 2006). In the results, I interpreted teachers’ qualitative responses within the context of
+rhetoric and writing studies and game studies research, further analyzing the data with this research.
+
+**Table 1**
+Emergent Structural Coding: Ethics and Writing Process.
+
+Ethics 1. Ethics in General
+
+2. Ethics of Generative AI Design 1. Bias
+2. Information accuracy (hallucinations)
+3. Transparency
+4. Privacy
+5. Environmental impact
+3. Ethics of Generative AI Use 1. Plagiarism
+2. Rhetorical awareness
+3. Critically composing queries
+4. Critical thinking
+5. Awareness of affordances and constraints
+6. Awareness of dangers and benefits
+Writing Process 1. Invention 1. Brainstorming ideas
+2. Outlining
+3. Finding research
+2. Drafting 1. Allowing generative AI to draft a section
+2. Drafting lesson plans
+3. Banning generative AI drafting
+3. Revision: Global 1. Analyzing and rewriting what generative AI drafted: global
+2. Reorganizing
+4. Style and Editing: Sentence level 1. Analyzing and rewriting what generative AI drafted: sentence level
+2. Summarizing for reading comprehension
+
+
+-----
+
+**3. Results**
+
+When teaching writing with generative AI, participants were concerned with teaching two primary areas: ethics and the writing
+process of invention, drafting, revision, and editing. However, participants also often framed this teaching as a form of play. In fact, five
+teachers in the study, over a fifth of participants, used the word “play” to describe their teaching with generative AI. The use of play
+makes sense because to play means to share agency within the rule boundaries of a system or the “free movement within a more rigid
+structure” (Salen & Zimmerman, 2004, p. 304). While on one end of the agency continuum between human and AI, teachers can forbid
+students from using generative AI, only one study participant took this approach. On the opposite end of the agency continuum,
+students and teachers can uncritically accept all generative AI responses, which no one in the study did. Instead, teachers taught
+students to play with the emergent text of generative AI as a critical dialectic.
+
+_3.1. Ethics_
+
+As a critically dialectical game, generative AI must first be ethically framed both in terms of its design and use. Consequently, four
+research participants mentioned teaching students about the ethics of AI in general.
+
+_3.1.1. Ethics of generative AI’s design_
+
+Teachers defined the ethics of generative AI design as bias, privacy concerns, and environmental impact. Because generative AI was
+trained on data sets from primarily privileged white, cis-gendered males, its output tends to marginalize and even erase other cultural
+viewpoints (Bender et al., 2021), and students need to be aware of this bias before they use generative AI (Graham & Hopkins, 2022;
+Lingard, 2023; Ranade & Eyman, 2024). For instance, one teacher wrote, “As a ‘blurry jpeg of the web,’ ChatGPT will reflect the
+assumptions, biases, and stereotypes that is latent in our discourse.” Furthermore, as generative AI was also trained on online data
+without users’ consent or knowledge (Koerner, 2023; Rajappa, 2024), a research participant explained that training datasets “can be
+drawn from material anyone . . . has written” such as “social media posts, a chatroom thread that still exists somewhere, or other
+personal information posted on the internet.” Finally, iteratively running generative AI billions of times requires enormous amounts of
+power, a single model needing the electricity powering 100 houses in a year, which often comes from carbon heavy sources such as coal
+(Saul & Bass, 2023), and one participant wrote that “there are some environmental costs to playing with AI.”
+
+In teaching the ethics of generative AI design, teachers wanted students to develop Stuart Selber’s (2004) critical literacy, with one
+teacher writing that students should “see the affordances and limitations of technology in order to develop critical-rhetorical literacy
+toward technology use.” Consequently, to introduce generative AI ethics, one teacher gave a mini-lecture on ChatGPT’s design,
+writing, “I teach how it is trained on a big corpus of writing, has analyzed the patterns and algorithms of that writing, and then is able to
+produce new writing by predicting the most likely next word in a sentence, according to the context (the context of the current piece of
+writing, the prompt, and the corpus of trained data).” Another teacher laid out the history of AI technologies leading up to ChatGPT’s
+design. Finally, in discussing affordances and constraints, three teachers also taught students the benefits and drawbacks of generative
+AI with one teacher specifically teaching about its dangers.
+
+After the mini-ethical design lectures, teachers often asked students to dialectically play with the chatbot, using the aleatory
+capability of generative AI to test its ethical affordances and constraints for themselves. One teacher wrote, “I usually spend a class or
+two after this lecture letting the students play with the bot.” Another teacher asked students to conduct “’stress testing’ [of] ChaptGPT
+to perform a task.” Another teacher asked students to test AI as a research study.
+
+However, to examine how generative AI constructs ethical output or not, five teachers asked students to examine and then reflect
+on the affordances and constraints of generative AI’s design before they used it, stressing how to critically and dialectically interrogate
+and reflect on what generative AI can and cannot do because of its design, directly using Selber’s (2004) critical literacy. For this
+reason, three mentioned that generative AI helped students become more critically aware of the ethics behind digital tools, with one
+teacher adding that teachers and students “have a responsibility to explore the writing technologies (and their accompanying values)
+that exist in the present time.” However, three teachers also added that ethics was a drawback to teaching with generative AI because
+students needed to understand the ethics of its design before they could critically use it.
+
+_3.1.2. Using generative AI ethically_
+
+Teaching students ethical, dialectical play with generative AI means first teaching students about rhetoric so that they can gauge
+the rhetorical effectiveness of the chatbot’s responses. Students should understand how to analyze audience demographics and their
+needs, dispositions, and positionality (Bedington et al., 2024). Bedington et al. (2024) also recommend that students should under­
+stand how to analyze the rhetorical exigency within a situation to formulate a problem and solution from it, figure out the available
+means of persuasion, and understand the larger rhetorical context. Three survey participants mentioned teaching students rhetorical
+awareness to effectively play with generative AI. One teacher referred to using generative AI as dialectically playing with “language
+clay,” but added that students need rhetorical awareness to play effectively. “I caution them that without a heavy, and critical,
+word-by-word interaction in the back and forth with the bot, the writing won’t be meeting the exigent rhetorical moment, won’t be
+purposeful, [and] won’t be effective.”
+
+Consequently, teaching students ethical generative AI play also means teaching students the rules for an effective dialectic with it:
+how to design effective queries. Query design is a critical, iterative, and rhetorically reflective process of questioning the AI until it cowrites a genre that is rhetorically sensitive to the social needs of the audience. As a result, generative AI needs domain-specific
+knowledge and incremental prompting, gradually training it for effective responses (Lingard, 2023) by requesting, refining, and
+
+
+-----
+
+evaluating (Pigg, 2024). In fact, rhetorically effective query design is so important that Kyle Booten (2023) has a first-year writing
+assignment teaching students to iteratively craft queries and Anuj Gupta and Ann Shivers-McNair (2024) argue that rhetorically
+effective query design is a new genre that writing teachers should begin teaching. In the study, one teacher modeled how to compose
+queries while another built query-crafting into every stage of the class: “At every step you have to include instructions on how to do the
+thinking—to get what you are looking for, how to analyze it, how to use further prompts to refine.” One teacher referred to query
+design as teaching students “how to make their own tools with the different generative AI platforms. . . . We’re engaging with these
+systems as a means to reflect upon our own processes and needs as writers.” Because query design is a critically reflective, dialectical
+process with writing, another teacher noted that there is a sharp learning curve to teaching critical query crafting with generative AI,
+especially as students may grow impatient with the often lengthy query process needed to co-compose rhetorically sensitive prose.
+
+Teaching students ethics also meant teaching them to effectively collaborate with generative AI without plagiarizing. Six teachers
+discussed plagiarism as a disadvantage of teaching with generative AI. However, teachers carefully positioned themselves as educating
+students on how to avoid plagiarism with generative AI rather than placing themselves in digital policing roles such as Turnitin.com
+(2024). Thus, teachers tended to follow Chris Anson’s (2022) advice of openly defining what constitutes plagiarism both culturally and
+with AI specifically and why. Further explaining the contexts for plagiarism, one study participant explained that students rely on
+ChatGPT to completely do their writing for them when they run out of time, have an inflexible teacher, or do not find “an assignment
+meaningful enough to do their own critical inquiry,” implying that teachers could avoid some plagiarism by listening to the needs of
+students, accommodating them, and designing meaningful assignments with them. To teach students how to avoid plagiarism with
+ChatGPT, one teacher suggested students document how they use ChatGPT in their paper. Seven teachers emphasized teaching stu­
+dents to critically and rhetorically think through any generative AI output they integrate into their papers, emphasizing that students
+still had writerly agency over their drafts.
+
+Finally, ethically responsible generative AI play meant that students learn to critically and dialectically interrogate the accuracy of
+AI output as generative AI can hallucinate or make up information not within its training data set (Lingard, 2023). Five teachers
+mentioned accuracy as a disadvantage, noting that students should learn to triangulate any information the AI gives with other sources,
+especially source citations. One teacher was worried that students would put too much faith into generative AI without fact-checking
+or double checking offered sources while another teacher was frustrated when students discarded their previous research in favor of
+what the generative AI suggested without critically thinking through it. However, generative AI’s propensity for hallucinations
+especially with sources can also be turned into a pedagogical resource as one teacher used generative AI “as a critical thinking exercise
+for students to gauge the reliability of generative AI in their source-finding.” Three teachers asked students to evaluate source cred­
+ibility in this vein, and one teacher wrote, “users should always cross-check information generated by ChatGPT against other, more
+credible sources.”
+
+_3.2. The writing process with generative AI_
+
+Five teachers in the survey specifically stated that they encouraged students to co-write with generative AI throughout the writing
+process, sharing writing agency with the aleatory emergence of generative AI as a dialectical form of play, similarly to how Bedington
+et al. (2024) integrated ChatGPT into their Professional Communication for Healthcare class in all phases of their writing processes,
+rhetorically load sharing with generative AI (Knowles, 2024). For instance, in the survey, one teacher explained that generative AI “can
+help students develop in language-play with unlimited examples of any sentence, phrase, paragraph, or genre” and another teacher
+wrote, “to assist my students’ writing process.”
+
+_3.2.1. Invention_
+
+Thirteen teachers, over half of research participants, had students critically question generative AI to brainstorm or invent ideas for
+their writing, using generative AI as a digital topoi. Specifically, generative AI creates a playfully aleatory, emergent moment of in­
+vention, which can lead to an epiphany for students as they learn something new about their topic. In asking generative AI to generate
+topic ideas, students never know exactly what to expect and can be open to inventive surprise as they learn something new. In this
+aleatory vein, one teacher asked students “to play around with it to make outlines.” Another teacher wrote, “Students use AI as a search
+engine to help them learn various arguments surrounding their topic,” which is in line with Cummings et al.’s (2024) students using
+generative AI to brainstorm research questions and counterarguments. In fact, six teachers claimed that the aleatory emergent in­
+vention of generative AI was an advantage of teaching with generative AI with one teacher explaining that generative AI helped
+prevent writer’s block because “being able to iterate through an idea quickly lowers the barrier to entry for drafting” for students.
+Similarly, two teachers asked students to generate outlines with generative AI just as Su et al.’s (2024) students asked ChatGPT to
+generate outlines.
+
+However, while teachers embraced students questioning generative AI as a playfully aleatory way to expand their ideas or narrow
+down their topic, teachers also wanted students to critically think through AI generation with seven teachers stating that a disad­
+vantage of generative AI was when students failed to do this. In other words, students should retain critical rhetorical agency over their
+writing when playing with the emergence of generative AI text. For instance, one teacher wrote that students’ writing should include
+“depth, details, and complexity,” especially as generative AI tends to over-generalize the details which add to nuanced complexity
+(Lingard, 2023), while another thought students’ writing should engage their “positionality and critical thinking.” For these reasons,
+two of these teachers were concerned that by over relying on generative AI output without critically questioning it, students would not
+be able to use writing as a way to learn.
+
+However, slowing students down and helping them form a rhetorical dialectic with generative AI that critically triangulates its
+
+
+-----
+
+writing with other sources or the students’ own positionality and personal experience can help students avoid factual errors or overlygeneralized prose. In this vein, seven teachers asked students to use generative AI to expand their research. For instance, one teacher
+had students play with generative AI to “examine the limitations of evidence and arguments provided by AI.”
+
+_3.2.2. Drafting_
+
+As a form of _copia, which is itself an ancient procedural method or rhetorical machine for generating texts (Brown, 2015),_
+generative AI is probably best known for drafting text. As such, it is also hardly surprising that four teachers encouraged students to
+draft with generative AI. However, asking generative AI to draft was limited to one aspect of a draft, setting boundaries for the AI that
+ensured students firmly shared writing agency with the AI, and one teacher even banned students from using generative AI for drafting
+papers outright. For instance, teachers had students play with generative AI to draft: grant proposals that students then further revised
+to better fit needs of the grant, challenging scripts for video performance practice, and titles and introductions for essays. One teacher
+asked students to play with AI Dungeon to co-write interactive fiction.
+
+Four teachers also used generative AI to draft lesson plans and assignments both on their own and collaboratively with their
+students. As such, two teachers played with generative AI’s aleatory drafting to co-write lesson plans and assignments with students
+during class. Thus, teachers were embracing Shor’s (1996) democratic, liberatory pedagogy where students have agency over how and
+what they learn. For instance, one of these teachers asked students to co-author writing assignments with the generative AI, but then
+used this activity to more deeply discuss ethics and source use with AI. To teach information design, one teacher generated ipsum
+lorem text with generative AI that students used for layout and formatting design.
+
+While four teachers brought up the efficient, rapid pace that generative AI drafts text as an advantage, with one teacher adding that
+it will be an employer expectation to enhance productivity, four other teachers also brought up that a common disadvantage of the
+rapidly generated text was poor quality. The text generative AI generates can be general, dry, repetitive, and formulaic (McKee &
+Porter, 2022; Lingard, 2023), which is similar to Socrates critiquing Lysias’ repetitive, superficial prose (Plato, 1929). One teacher
+cautioned that we “risk cycling content endlessly” when we write with generative AI. Another teacher had a student who loved the
+outline the generative AI drafted, but the outline “had the same point reiterated several times in different wording.” However, teachers
+could help students dialectically critique the generative AI’s draft, critically and emergently playing with the prose so that students
+learn how to revise and write a more rhetorically effective draft, much like Socrates rewriting Lysias’ speech several times for Phaedrus
+(Plato, 1929), which I discuss next.
+
+_3.2.3. Revision_
+
+Four teachers formed a critical dialectic with the aleatory emergence of generative AI to teach revision, asking students to
+“practice/play with Chat GPT to see what it could possibly add to their drafts,” as one of my study participants put it. Students would
+compare their prose with that of the generative AI draft, specifically leveraging the critically playful emergence of the AI’s generated
+text to learn about their own writing and how to further revise it. Thus, teachers were guiding students through any frustrating critical
+incidents with their writing while still helping them learn more from it: to form epiphanies as they gain transformational elastic
+knowledge about why their writing could be more rhetorically effective than the generative AI (Alexandar, 2017; Yancey, Robertson, &
+Taczak, 2012). For instance, one teacher tasked students with asking generative AI to draft an essay that students then revised further.
+A technical communication teacher first directed engineers to write instructions based on a user story. Then the teacher tasked
+“students to write instructions for another user to complete the task in their narrative.” Students then asked ChatGPT to include any
+missing instructions so that the class could discuss what ChatGPT added or omitted and why. In another class, after drafting essays,
+students would then ask ChatGPT to draft the same essay so that they could compare the two drafts and revise, writing reflections about
+why they rhetorically made draft changes. Four teachers also indicated that there was an advantage to using generative AI to critically
+play with revision with one teacher explaining that generative AI helped students develop a fuller metacognitive awareness of their
+rhetorical choices while revising, helping them avoid the frustration of the critical incident crisis as a teacher would because the “tools
+can be used as meta-commentary on themselves: you can ask the bot to produce writing, and then ask the bot to explain ‘why’ it
+produced the writing in that way.”
+
+While no teachers indicated that this type of revision with generative AI was a disadvantage, teachers stressed that students should
+continue to critically compare their writing with that of the generative AI, forming a critically dialectical relationship with both the
+generative AI and their own writing instead of allowing the AI to draft for them without question. In this vein, seven teachers were also
+concerned students would allow the generative AI to draft for them without critically revising further to meet audience, genre, and
+rhetorical purpose expectations, causing students to lose the rhetorical metacognitive awareness of how to write effectively. With this
+loss of critical thinking, teachers were also concerned that writing to learn would be lost. One teacher wrote, “I’ve always thought that
+good writing and good thinking go hand-in-hand.” If students are “too reliant on generative AI for both thinking and writing, [this] will
+cause students to be weaker at both.” In one class, even though students revised after comparing their drafts to the generative AI’s, the
+teacher thought the revision was not substantive enough.
+
+However, showing students how to critically analyze generative AI writing for rhetorically purposeful revision within a critical
+dialectic could also teach students to avoid mindlessly letting generative AI draft for them. As Bedington et al. (2024) note, generative
+AI cannot completely revise or draft without a person critically analyzing the draft or revision’s rhetorical effectiveness. In fact, even
+experienced users of generative AI, like the researchers Pigg (2024) examined, critically evaluate generative AI’s output, even if
+instead of revising the text themselves, they refine their queries until generative AI rhetorically effectively revises the text for them.
+However, students may need to be shown how to rhetorically evaluate and further revise on their own the prose generative AI first
+drafts for them.
+
+
+-----
+
+Another aspect of revision was dialectically asking generative AI for arrangement advice to help students more effectively organize
+their writing, playfully using the aleatory emergence of generative AI for revision. Specifically, two teachers had generative AI
+comment on the “structure and clarity” of student writing and evaluate its organization so that students could revise further. Three
+teachers also commented that generative AI helped students play with the organization of their writing in this way with one teacher
+writing that generative AI “allows for a deeper discussion of . . . organization,” creating opportunities for students to transformationally
+synthesize prior knowledge about organizing writing with new knowledge (Alexander, 2017; Yancey, Robertson, & Taczak, 2012).
+Two teachers thought that arrangement could be a disadvantage of generative AI, particularly as generative AI often repetitively
+restates points without substantially adding new ideas. However, teachers can also call attention to how repetitive or general
+generative AI’s writing can be and ask students to revise the draft, adding new points supported with more substantial experiential and
+source details.
+
+_3.2.4. Style and editing_
+
+Eight teachers had students critically play with generative AI for editing, asking students to compare and contrast their writing with
+the AI’s draft similarly as they had with revision but focusing instead on stylistic sentence level differences instead of global ones, an
+assignment John Silvestro (2023) also teaches. In this way, students used the emergence of generative AI to play with their style,
+potentially forming epiphanies about style as they learned something new. For instance, one teacher asked students to “compare the
+effectiveness of their written prose to what AI generated in order to assess the strengths and limitations of what they wrote.” A
+technical communications teacher used generative AI as a style discussion prompt because generative AI “can mix and match genres
+
+[in technical communication and then] explain sentence and grammar constructions” for a specific genre. Seven teachers also said that
+playing with generative AI for style at the sentence level was an advantage to teaching with it, especially in helping students become
+aware of style as personal voice so that they can develop their own.
+
+Disadvantages to playing with generative AI for style were that the algorithms occlude how style is produced and that students
+would lose interest in style as a craft as generative AI could create it for them. However, while we can never know exactly how the
+generative AI algorithms work, playing with different style prompts as the examples above illustrate still shows us something of how
+the algorithms work and also shows students how and why to be aware of sentence-level style.
+
+Finally, while students used generative AI to compare and contrast their writing to critically play with revision and editing, they
+similarly used generative AI for reading comprehension, turning generative AI into a playful reading assistant, especially as word
+choice at the sentence level can affect reading comprehension. Three teachers asked students and generative AI to write summaries of
+the same content so that they could compare the two. This comparison alerts students to anything they had not understood in the
+reading, helping them form the transformational growth knowledge of epiphany as they learn more about the reading (Alexander,
+2017; Yancey, Robertson, & Taczak, 2012).
+
+Of course, three teachers also worried that generative AI created disadvantages to critical reading, especially for students with
+imposter syndrome, who were too busy, or who were enculturated into bad habits because generative AI so easily does the reading for
+them. For instance, one teacher wrote that using generative AI to draft summaries “might allow students to cut corners and not actually
+read the articles.” However, two teachers also noted advantages in playing with generative AI as a reading assistant because it enabled
+students to “feel more confident tackling long, complicated articles” and gave students “access to difficult ideas in complex texts.”
+
+**4. Discussion**
+
+While it is unclear exactly how generative AI will change the landscape of professional writing, it is clear that students still need to
+have rhetorical agency over their writing when they co-write with generative AI, playing an ethical dialectical game with it. However,
+it is also clear that the collaborative joining of human and machine invents, bringing aleatory pleasures of epiphany as generative AI
+teaches students with a real time efficiency that also democratizes education.
+
+One finding from the survey was that teachers often did not see generative AI’s initial responses as being rhetorically effective,
+which meant that generative AI required more extensive prompting to do so. Therefore, effective use of generative AI requires critical
+dialectical interaction, or, as Aarseth (1997) argued of ergodic texts, “nontrivial effort” (p. 1). Unlike a Google search, a 1:1 “ask
+ChatGPT to do X” often results in the most rudimentary results, even if it feels like magic on the surface. If we are to teach with or use
+generative AI in our own writing, we need to understand these tools as a game of forming rhetorical, dialectical queries.
+
+Alongside such an approach is also acknowledging a critical stance. Playing an ethical, dialectical game with generative AI means
+critically querying it to generate rhetorically responsive texts for our purposes or critically querying it to understand the ethical
+affordances and constraints of its design, which is essential as generative AI has critical problems with bias, a lack of privacy, and
+accuracy (Bender et al., 2021; Tham, Howard, & Verhulsdonck, 2022; Rajappa, 2024). Therefore, while students are sharing writerly
+agency with generative AI as they compose with it throughout the writing process, students should retain rhetorical agency by double
+checking the accuracy of the facts it generates, being mindful of any bias in its assertions, or being rhetorically critical of the prose it
+drafts so that they can revise a more rhetorically effective draft.
+
+However, writing with generative AI has rich creative potential as each response is unique, which constructs creative moments of
+aleatory emergence for students as they never know what to expect, just as they would in a game of chance. Thus, generative AI become
+a type of topoi, especially as topoi were heuristics or memorized devices that laid out procedures for generating ideas, constructing a
+form of generative artificial intelligence. In fact, Brown (2015) defines the _topoi_ as procedural algorithms that “present ways to
+transform data into narratives” (p. 161) that form arguments. In this way, as students critically think through the generative AI’s
+responses as topoi, moments of metis, the creative cunning of the embodied moment (Detienne & Vernant, 1978), and epiphany occur as
+
+
+-----
+
+generative AI helps them develop further research ideas, develops outlines, or reorganizes drafts. Furthermore, generative AI can help
+students creatively re-envision their drafts, helping them see where they may need to add another point or reorganize, by either
+evaluating their draft and telling them or by creating a draft students can critically compare.
+
+Finally, the rapid pace of generative AI’s text generation means that teachers and students can use it as a teaching or writing tool in
+real time in class. This ease of use gives the same rapid, just-in-time feedback as a game (Gee, 2007), and, in so doing, democratizes
+both teaching and writing. Students and teachers can co-write lesson plans with generative AI during class, creating Shor’s (1996)
+liberatory pedagogy where students have creative agency over how and what they learn. Students can instantly get evaluative
+feedback on a draft from generative AI, and along with a teacher’s guidance, form the transformational transfer needed to improve a
+draft and grow as writers without the frustration from the critical incident (Alexander, 2017; Yancey, Robertson, & Taczak, 2012).
+
+Just like using games to teach writing, using generative AI to teach writing is still difficult. Generative AI cannot teach for us. And
+while playing with the unique and instant feedback of generative AI can create moments of aleatory fun, moments which can even
+bring creative insight to our teaching and writing, playing with generative AI still needs to be critical: a craft of query construction that
+creates a constant dialectic with the generative AI. However, through this critical play, students and teachers can be a positive social
+disruptor to generative AI.
+
+**CRediT authorship contribution statement**
+
+**Rebekah Shultz Colby: Writing – review & editing, Writing – original draft, Project administration, Methodology, Investigation,**
+Formal analysis, Data curation, Conceptualization.
+
+**Declaration of competing interest**
+
+The authors declare that they have no known competing financial interests or personal relationships that could have appeared to
+influence the work reported in this paper.
+
+**Appendix A**
+
+1. How do you use generative AI (ChatGPT, Bard, etc.) in the writing classroom? Describe all the ways you have used generative AI in
+the classroom.
+2. What are the advantages of using generative AI in the writing classroom?
+3. What are the disadvantages of using generative AI in the writing classroom?
+
+**Data availability**
+
+The data that has been used is confidential.
+
+**References**
+
+[Aarseth, E. (1997). Cybertext: perspectives on ergodic literature. John Hopkins University Press.](http://refhub.elsevier.com/S8755-4615(25)00002-7/sbref0001)
+Adisa, K., Byrd, A., Flores, L., Gibson, A., Green, D., & Hassel, H. (2023). Mills. In Exploring AI pedagogy: A community collection of teaching reflections. MLA-CCC Joint
+_[Task Force on. AI and Writing. https://exploringaipedagogy.hcommons.org/.](https://exploringaipedagogy.hcommons.org/)_
+[Alexander, P. (2017). Knowing how to play: Gamer knowledges and knowledge acquisition. Computers and Composition, 44, 1–12.](http://refhub.elsevier.com/S8755-4615(25)00002-7/sbref0003)
+[Anson, C. (2022). AI-based text generation and the social construction of “fraudulent authorship”: A Revisitation. Composition Studies, 50(1), 37–46.](http://refhub.elsevier.com/S8755-4615(25)00002-7/sbref0004)
+[Ash, J. (2013). Technologies of captivation: Videogames and the attunement of affect. Body and Society, 19(1), 27–51.](http://refhub.elsevier.com/S8755-4615(25)00002-7/sbref0005)
+[Barnett, S. (2023). ChatGPT is making universities rethink plagiarism. January 30. Wired https://www.wired.com/story/chatgpt-college-university-plagiarism/.](https://www.wired.com/story/chatgpt-college-university-plagiarism/)
+[Beck, E. (2016). A theory of persuasive computer algorithms for rhetorical code studies. Enculturation, 23. http://enculturation.net/a-theory-of-persuasive-computer-](http://enculturation.net/a-theory-of-persuasive-computer-algorithms)
+[algorithms.](http://enculturation.net/a-theory-of-persuasive-computer-algorithms)
+[Bedington, A., Halcomb, E, McKee, H., Sargent, T., & Smith, A. (2024). Writing with generative AI and human-machine teaming: Insights and recommendations from](http://refhub.elsevier.com/S8755-4615(25)00002-7/sbref0008)
+[faculty and students. Computers and Composition, 71, Article 102833.](http://refhub.elsevier.com/S8755-4615(25)00002-7/sbref0008)
+Bender, E., Gebru, T., McMillan-Major, A., & Shmitchell, S. (2021). On the dangers of stochastic parrots: Can language models be too big?. In Proceedings of the 2021
+_[ACM conference on fairness, accountability, and transparency. ACM Digital Library. https://dl.acm.org/doi/abs/10.1145/3442188.3445922.](https://dl.acm.org/doi/abs/10.1145/3442188.3445922)_
+[Bogost, I. (2007). Persuasive games: the expressive power of videogames. MIT Press.](http://refhub.elsevier.com/S8755-4615(25)00002-7/sbref0010)
+Booten, K. (2023). Synthetic metacognition: Iterating prompts with GPTs. In A. Vee, T. Laquintano, & C. Schnitzler (Eds.), TextGenEd: teaching with text generation
+_[technologies. wac clearinghouse. https://wac.colostate.edu/repository/collections/textgened/rhetorical-engagements/synthetic-metacognition/.](https://wac.colostate.edu/repository/collections/textgened/rhetorical-engagements/synthetic-metacognition/)_
+[Brock, K. (2019). Rhetorical code studies: discovering arguments in and around code. University of Michigan Press.](http://refhub.elsevier.com/S8755-4615(25)00002-7/sbref0012)
+[Brock, K, & Shepherd, D. (2016). Understanding how algorithms work persuasively through the procedural enthymeme. Computers and Composition, 42, 17–27.](http://refhub.elsevier.com/S8755-4615(25)00002-7/sbref0013)
+[Brown, J. (2015). Ethical programs: hospitality and the rhetorics of software. University of Michigan Press.](http://refhub.elsevier.com/S8755-4615(25)00002-7/sbref0014)
+Byrd, A., Flores, L., Green, D., Hassel, H., Johnson, S., Kirschenbaum, M., Losh, E., & Mills, A. (2023, July). MLA-CCCC joint task force on writing and AI working paper.
+
+[https://hcommons.org/app/uploads/sites/1003160/2023/07/MLA-CCCC-Joint-Task-Force-on-Writing-and-AI-Working-Paper-1.pdf.](https://hcommons.org/app/uploads/sites/1003160/2023/07/MLA-CCCC-Joint-Task-Force-on-Writing-and-AI-Working-Paper-1.pdf)
+[Caillois, R. (2001). Man, play, and games. (M. barash, tans.). University of Chicago Press.Chicago University Press.](http://refhub.elsevier.com/S8755-4615(25)00002-7/sbref0016)
+[Chun, C. (2023). Why some college professors are adopting chat gpt ai as quickly as students. April 2. CNBC https://www.cnbc.com/2023/04/02/why-college-professors-](https://www.cnbc.com/2023/04/02/why-college-professors-are-adopting-chatgpt-ai-as-quickly-as-students.html)
+[are-adopting-chatgpt-ai-as-quickly-as-students.html.](https://www.cnbc.com/2023/04/02/why-college-professors-are-adopting-chatgpt-ai-as-quickly-as-students.html)
+[Cooper, M. (2011). Agency as emergent and enacted. College Composition and Communication, 62(3), 420–449.](http://refhub.elsevier.com/S8755-4615(25)00002-7/sbref0018)
+
+
+-----
+
+[Cummings, R., Monroe, S., & Watkins, M. (2024). Generative AI in first-year writing: An early analysis of affordances, limitations, and a framework for the future.](http://refhub.elsevier.com/S8755-4615(25)00002-7/sbref0019)
+_[Computers and Composition, 71, Article 102827.](http://refhub.elsevier.com/S8755-4615(25)00002-7/sbref0019)_
+[Denzin, T. (2001). Interpretive interactionism. Sage Publications.](http://refhub.elsevier.com/S8755-4615(25)00002-7/sbref0020)
+[Derrida, J. (1988). Limited inc. (S. weber, trans.). Northwestern University Press.](http://refhub.elsevier.com/S8755-4615(25)00002-7/sbref0021)
+[Detienne, M., & Vernant, J. (1978). Cunning intelligence in greek culture and society. (J. lloyd, trans.). Chicago University Press. Original work published 1974.](http://refhub.elsevier.com/S8755-4615(25)00002-7/sbref0022)
+[Dolmage, J. (2014). Disability rhetoric. Syracuse University Press.](http://refhub.elsevier.com/S8755-4615(25)00002-7/sbref0023)
+[Eyman, D. (2015). Digital rhetoric: theory, method, practice. Parlor Press.](http://refhub.elsevier.com/S8755-4615(25)00002-7/sbref0024)
+[Faverio, M., & Tyson, A. (2023). What the data says about americans’ views of artificial intelligence. November 21. Pew Research Center https://www.pewresearch.org/](https://www.pewresearch.org/short-reads/2023/11/21/what-the-data-says-about-americans-views-of-artificial-intelligence/)
+[short-reads/2023/11/21/what-the-data-says-about-americans-views-of-artificial-intelligence/.](https://www.pewresearch.org/short-reads/2023/11/21/what-the-data-says-about-americans-views-of-artificial-intelligence/)
+[Felten, E., Raj, M., & Seamans, R. (2023). How will language modelers like ChatGPT affect occupations and industries? arXiv:2303.01157. https://doi.org/10.48550/](http://doi.org/10.48550/arXiv.2303.01157)
+[arXiv.2303.01157.](http://doi.org/10.48550/arXiv.2303.01157)
+[Flanagan, M. (2009). Critical play: radical game design. MIT Press.](http://refhub.elsevier.com/S8755-4615(25)00002-7/sbref0027)
+[Gallagher, J. (2020). The ethics of writing for algorithmic audiences. Computers and Composition, 57, Article 102583.](http://refhub.elsevier.com/S8755-4615(25)00002-7/sbref0028)
+[Gee, J. P. (2007). Good video games + good learning: collected essays on video games, learning and literacy. Peter Lang.](http://refhub.elsevier.com/S8755-4615(25)00002-7/sbref0029)
+[Geertz, C. (1973). The interpretation of cultures: selected essays. New York: Basic Books.](http://refhub.elsevier.com/S8755-4615(25)00002-7/sbref0030)
+[Goldberg, E. (2023). A.I.’s threat to jobs prompts question of who protects workers. May 23. The New York Times https://www.nytimes.com/2023/05/23/business/jobs-](https://www.nytimes.com/2023/05/23/business/jobs-protections-artificial-intelligence.html)
+[protections-artificial-intelligence.html.](https://www.nytimes.com/2023/05/23/business/jobs-protections-artificial-intelligence.html)
+[Graham, S., & Hopkins, H. (2022). AI for social justice: New methodological horizons in technical communication. Technical Communication Quarterly, 31(1), 89–102.](http://refhub.elsevier.com/S8755-4615(25)00002-7/sbref0032)
+[Gupta, A., & Shivers-McNair, A. (2024). “Wayfinding” through the AI wilderness: Mapping rhetorics of ChatGPT prompt writing on Twitter (X) to promote critical AI](http://refhub.elsevier.com/S8755-4615(25)00002-7/sbref0033)
+[literacies. Computers and Composition, 74, Article 102882.](http://refhub.elsevier.com/S8755-4615(25)00002-7/sbref0033)
+[Hallsby, A. (2024). A copious void: Rhetoric as artificial intelligence 1.0. Rhetoric Society Quarterly, 54(3), 232–246.](http://refhub.elsevier.com/S8755-4615(25)00002-7/sbref0034)
+Hesse, D., Rademaekers, J., Blakeslee, A., Britt-Smith, L., Moroski-Rigney, K., Craig, S., Roskinksi, P., & Sheriff, S. (2023, January). Statement on Artificial Intelligence
+[Writing Tools in Writing Across the Curriculum Settings. https://wacassociation.org/statement-on-ai-writing-tools-in-wac/.](https://wacassociation.org/statement-on-ai-writing-tools-in-wac/)
+[Holmes, S. (2017). The rhetoric of games as embodied practice: procedural habits. Routledge.](http://refhub.elsevier.com/S8755-4615(25)00002-7/sbref0036)
+[Jiang, J. (2020). I never know what to expect”: Aleatory identity play in Fortnite and its implications for multimodal composition. Computers and Composition, 55,](http://refhub.elsevier.com/S8755-4615(25)00002-7/sbref0037)
+[Article 102550.](http://refhub.elsevier.com/S8755-4615(25)00002-7/sbref0037)
+[Knowles, A. (2024). Machine-in-the-loop writing: Optimizing the rhetorical load. Computers and Composition, 71, Article 102826.](http://refhub.elsevier.com/S8755-4615(25)00002-7/sbref0038)
+[Koerner, K. (2023). Generative AI: privacy and tech perspectives. March 28. The International Association of Privacy Professionals https://iapp.org/news/a/generative-](https://iapp.org/news/a/generative-ai-privacy-and-tech-perspectives)
+[ai-privacy-and-tech-perspectives.](https://iapp.org/news/a/generative-ai-privacy-and-tech-perspectives)
+[Koster, R. (2005). A theory of fun. Paraglyph Press.](http://refhub.elsevier.com/S8755-4615(25)00002-7/sbref0040)
+[Lin, L. (2024). A quarter of U.S. teachers say ai tools do more harm than good in K-12 education. May 15. Pew Research https://www.pewresearch.org/short-reads/2024/](https://www.pewresearch.org/short-reads/2024/05/15/a-quarter-of-u-s-teachers-say-ai-tools-do-more-harm-than-good-in-k-12-education/)
+[05/15/a-quarter-of-u-s-teachers-say-ai-tools-do-more-harm-than-good-in-k-12-education/.](https://www.pewresearch.org/short-reads/2024/05/15/a-quarter-of-u-s-teachers-say-ai-tools-do-more-harm-than-good-in-k-12-education/)
+[Lingard, L. (2023). Writing with ChatGPT: An Illustration of its capacity, limitations, and implications for academic writers. Perspectives on Medical Education, 12(1),](http://refhub.elsevier.com/S8755-4615(25)00002-7/sbref0042)
+[261–270.](http://refhub.elsevier.com/S8755-4615(25)00002-7/sbref0042)
+[Majdik, Z., & Graham, S. (2024). Rhetoric of/with AI: An introduction. Rhetoric Society Quarterly, 54(3), 222–231.](http://refhub.elsevier.com/S8755-4615(25)00002-7/sbref0043)
+[Marino, M. (2014). Field report for critical code studies, 2014. Computational Culture: A Journal of Software Studies, 4. http://computationalculture.net/field-report-](http://computationalculture.net/field-report-for-critical-code-studies-2014%E2%80%A8/)
+[for-critical-code-studies-2014%E2%80%A8/.](http://computationalculture.net/field-report-for-critical-code-studies-2014%E2%80%A8/)
+[Mayring, P. (2000). Qualitative content analysis. Forum: Qualitative Social Research, 1(2). http://www.qualitative-research.net/index.php/fqs/article/view/1089/](http://www.qualitative-research.net/index.php/fqs/article/view/1089/2386)
+[2386.](http://www.qualitative-research.net/index.php/fqs/article/view/1089/2386)
+McKee, H., & Porter, J. (2022). Team roles and rhetorical intelligence in human-machine writing. In 2022 IEEE International Professional Communication Conference
+[(pp. 384–391). https://doi.org/10.1109/ProComm53155.2022.00078](https://doi.org/10.1109/ProComm53155.2022.00078)
+[Miller, C. (1984). Genre as social action. Quarterly Journal of Speech, 70, 151–167.](http://refhub.elsevier.com/S8755-4615(25)00002-7/sbref0047)
+[Miller, C. (2007). What can automation tell us about agency? Rhetoric Society Quarterly, 37, 137–157.](http://refhub.elsevier.com/S8755-4615(25)00002-7/sbref0048)
+[Owusu-Ansah, A. (2023). Defining moments, definitive programs, and the continued erasure of missing people. Composition Studies, 51(1), 43–148.](http://refhub.elsevier.com/S8755-4615(25)00002-7/sbref0049)
+[Patton, M. (2002). Qualitative research and evaluative methods. Sage.](http://refhub.elsevier.com/S8755-4615(25)00002-7/sbref0050)
+[Pigg, S. (2024). Research writing with ChatGPT: A descriptive embodied practice framework. Computers and Composition, 71, Article 102830.](http://refhub.elsevier.com/S8755-4615(25)00002-7/sbref0051)
+[Plato. (1929). Timaeus, critias, cleitophon, menexenus, epistles. (R.G. bury, trans.). Harvard University Press. Original work published ca. 385-378 BCE.](http://refhub.elsevier.com/S8755-4615(25)00002-7/sbref0052)
+[Ponterotto, J. (2006). Brief note on the origins, evolution, and meaning of the qualitative research concept “thick description. The Qualitative Report, 11(3), 538–549.](http://refhub.elsevier.com/S8755-4615(25)00002-7/sbref0053)
+[Rajappa, S. (2024). An introduction to the privacy and legal concerns of generative ai. March 29. Forbes https://www.forbes.com/councils/forbestechcouncil/2024/01/](https://www.forbes.com/councils/forbestechcouncil/2024/01/29/an-introduction-to-the-privacy-and-legal-concerns-of-generative-ai/)
+[29/an-introduction-to-the-privacy-and-legal-concerns-of-generative-ai/.](https://www.forbes.com/councils/forbestechcouncil/2024/01/29/an-introduction-to-the-privacy-and-legal-concerns-of-generative-ai/)
+[Ranade, N., & Eyman, D. (2024). Introduction: Composing with generative AI. Computers and Composition, 71, Article 102834.](http://refhub.elsevier.com/S8755-4615(25)00002-7/sbref0055)
+Reeves, C., & Sylvia, J. J., IV (2024). Generative AI in technical communication: A review of research from 2023 to 2024. Journal of Technical Writing and
+_[Communication, 54(4). https://doi.org/10.1177/00472816241260043](https://doi.org/10.1177/00472816241260043)_
+[Ruwe, T., & Mayweg-Paus, E. (2023). Your argumentation is good,” says the AI vs humans—The role of feedback providers and personalized language for feedback](http://refhub.elsevier.com/S8755-4615(25)00002-7/sbref0057)
+[effectiveness. Computers and Education: Artificial Intelligence, 5, Article 100189.](http://refhub.elsevier.com/S8755-4615(25)00002-7/sbref0057)
+Saldana, J. (2013). ˜ _[The coding manual for qualitative researchers. Sage.](http://refhub.elsevier.com/S8755-4615(25)00002-7/sbref0058)_
+[Salen, K., & Zimmerman, E. (2004). Rules of play: game design fundamentals. MIT Press.](http://refhub.elsevier.com/S8755-4615(25)00002-7/sbref0059)
+[Salomon, G., & Perkins, D. (1989). Rocky roads to transfer: Rethinking mechanisms of a neglected phenomenon. Educational Psychologist, 24(2), 113–142.](http://refhub.elsevier.com/S8755-4615(25)00002-7/sbref0060)
+[Salomon, G., & Perkins, D. (1992). Transfer of learning. International Encyclopedia of Education, 2, 6452–6457.](http://refhub.elsevier.com/S8755-4615(25)00002-7/sbref0061)
+[Saul, J., & Bass, D. (2023). Artificial intelligence is booming—So is its carbon footprint. March 10. The Japan Times https://www.japantimes.co.jp/news/2023/03/10/](https://www.japantimes.co.jp/news/2023/03/10/business/tech/ai-carbon-footprint/)
+[business/tech/ai-carbon-footprint/.](https://www.japantimes.co.jp/news/2023/03/10/business/tech/ai-carbon-footprint/)
+[Schryer, C. (1994). The lab vs. the clinic”: Sites of competing genres. In A. Freedman, & P. Medway (Eds.), Genre and the new rhetoric (pp. 105–124). Taylor & Francis.](http://refhub.elsevier.com/S8755-4615(25)00002-7/sbref0063)
+[Selber, S. (2004). Multiliteracies for a digital age. Southern Illinois University Press.](http://refhub.elsevier.com/S8755-4615(25)00002-7/sbref0064)
+[Shor, I. (1996). When students have power: negotiating authority in a critical pedagogy. Chicago University Press.](http://refhub.elsevier.com/S8755-4615(25)00002-7/sbref0065)
+[Shrivastava, R. (2023). I’ve never hired a writer better than chatgpt”: how ai is upending the freelance world. April 20. Forbes https://www.forbes.com/sites/](https://www.forbes.com/sites/rashishrivastava/2023/04/20/ive-never-hired-a-writer-better-than-chatgpt-how-ai-is-upending-the-freelance-world/)
+[rashishrivastava/2023/04/20/ive-never-hired-a-writer-better-than-chatgpt-how-ai-is-upending-the-freelance-world/.](https://www.forbes.com/sites/rashishrivastava/2023/04/20/ive-never-hired-a-writer-better-than-chatgpt-how-ai-is-upending-the-freelance-world/)
+[Sicart, M. (2023). Playing with software. MIT Press.](http://refhub.elsevier.com/S8755-4615(25)00002-7/sbref0067)
+Silvestro, J. (2023). Generate and enact a writing style: Examining writing style through generative AI. In A. Vee, T. Laquintano, & C. Schnitzler (Eds.), TextGenEd:
+_[teaching with text generation technologies. WAC Clearinghouse. https://wac.colostate.edu/repository/collections/textgened/rhetorical-engagements/generate-and-](https://wac.colostate.edu/repository/collections/textgened/rhetorical-engagements/generate-and-enact-a-writing-style/)_
+[enact-a-writing-style/.](https://wac.colostate.edu/repository/collections/textgened/rhetorical-engagements/generate-and-enact-a-writing-style/)
+[Singer, N. (2023a). How teachers and students feel about a.i. August 24. The New York Times https://www.nytimes.com/2023/08/24/technology/how-teachers-and-](https://www.nytimes.com/2023/08/24/technology/how-teachers-and-students-feel-about-ai.html?searchResultPosition=8)
+[students-feel-about-ai.html?searchResultPosition=8.](https://www.nytimes.com/2023/08/24/technology/how-teachers-and-students-feel-about-ai.html?searchResultPosition=8)
+[Singer, N. (2023b). Chatbot hype or harm? teens push to broaden A.I. literacy. December 13. The New York Times https://www.nytimes.com/2023/12/13/technology/](https://www.nytimes.com/2023/12/13/technology/ai-chatbots-schools-students.html?searchResultPosition=5)
+[ai-chatbots-schools-students.html?searchResultPosition=5.](https://www.nytimes.com/2023/12/13/technology/ai-chatbots-schools-students.html?searchResultPosition=5)
+[Singer, N. (2024). Will chatbots teach your children?. January 11. The New York Times https://www.nytimes.com/2024/01/11/technology/ai-chatbots-khan-](https://www.nytimes.com/2024/01/11/technology/ai-chatbots-khan-education-tutoring.html?searchResultPosition=9)
+[education-tutoring.html?searchResultPosition=9.](https://www.nytimes.com/2024/01/11/technology/ai-chatbots-khan-education-tutoring.html?searchResultPosition=9)
+[Su, Y., Lin, Y., & Lai, C. (2024). Collaborating with GhatGPT in argumentative writing classrooms. Assessing Writing, 71, Article 100752.](http://refhub.elsevier.com/S8755-4615(25)00002-7/sbref0072)
+[Tham, J, Howard, T., & Gustav, V. (2022). Extending design thinking, content strategy, and artificial intelligence into technical communication and user experience](http://refhub.elsevier.com/S8755-4615(25)00002-7/sbref0073)
+[design programs: Further pedagogical implications. Journal of Technical Writing and Communication, 52(4), 428–459.](http://refhub.elsevier.com/S8755-4615(25)00002-7/sbref0073)
+
+
+-----
+
+[Thomas, D. (2006). A general inductive approach for analyzing qualitative evaluation data. American Journal of Evaluation, 27(2), 237–246.](http://refhub.elsevier.com/S8755-4615(25)00002-7/sbref0074)
+[Turnitin. (2024, April 9). Turnitin marks one year anniversary of its AI writing detector with millions of papers reviewed globally. https://www.turnitin.com/press/press-](https://www.turnitin.com/press/press-detail_17793)
+[detail_17793.](https://www.turnitin.com/press/press-detail_17793)
+[Tyson, A., & Kikuchi, E. (2023). Growing public concern about the role of artificial intelligence in daily life. Pew research center. https://www.pewresearch.org/short-](https://www.pewresearch.org/short-reads/2023/08/28/growing-public-concern-about-the-role-of-artificial-intelligence-in-daily-life/)
+[reads/2023/08/28/growing-public-concern-about-the-role-of-artificial-intelligence-in-daily-life/.](https://www.pewresearch.org/short-reads/2023/08/28/growing-public-concern-about-the-role-of-artificial-intelligence-in-daily-life/)
+[Vee, A., Laquintano, T., & Schnitzle, C. (2023). TextGenEd: Teaching with text generation technologies. WAC Clearinghouse. https://wac.colostate.edu/repository/](https://wac.colostate.edu/repository/collections/textgened/)
+[collections/textgened/.](https://wac.colostate.edu/repository/collections/textgened/)
+[Wu, X., Xiao, L., Sun, Y., Zhang, J., Ma, T., & He, L. (2022). A survey of human-in-the-loop for machine learning. Future Generation Computer Systems, 135, 364–381.](http://refhub.elsevier.com/S8755-4615(25)00002-7/sbref0078)
+Yancey, K. B., Robertson, L., & Taczak, K. (2012). Notes toward a theory of prior knowledge and its role in college composers’ transfer of knowledge and practice.
+_[Composition Forum, 26. http://compositionforum.com/issue/26/prior-knowledge-transfer.php.](http://compositionforum.com/issue/26/prior-knowledge-transfer.php)_
+
+Rebekah Shultz Colby is a Teaching Professor at the University of Denver whose work examines how digital culture, especially games, rhetorically affects writers and
+writing. She has co-edited _The Ethics of Playing, Researching, and Teaching Games in the Writing Classroom and Rhetoric/Composition/Play through Video Games_ and
+published articles on using games to theorize and teach rhetoric and writing in Computers and Composition, Technical Communication Quarterly, and Literacy in Composition
+_Studies._
+
+
+-----
+
