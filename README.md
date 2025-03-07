@@ -94,7 +94,7 @@ api_keys = [
 
 ### 1️⃣ **Clone the Repository**  
 ```sh
-git clone https://github.com/your-repo-name.git
+git clone https://github.com/Prince5598.git
 cd your-repo-name
 ```
 
