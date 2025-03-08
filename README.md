@@ -1,4 +1,4 @@
-# 🚀 **Research Paper Processing Tool**  
+# 🚀 **InsightScribe**  
 
 This project is a web-based tool that allows users to **upload research papers (PDFs)** and generate various outputs, such as **text summaries, podcasts, and PowerPoint presentations**.  
 
